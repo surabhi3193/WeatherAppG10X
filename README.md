@@ -1,4 +1,4 @@
-# WeatherAppGXX
+# WeatherAppG10X
 
 https://github.com/surabhi3193/WeatherAppGXX/assets/33922020/e154acb0-4b5f-4f0e-b5b3-b7631b3d4356
 
